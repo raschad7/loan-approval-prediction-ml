@@ -1,8 +1,3 @@
-Got it 👍 Here’s a polished \*\*README.md\*\* you can drop into your repo:
-
-
-
-````markdown
 
 \# 🏦 Loan Approval Prediction
 
